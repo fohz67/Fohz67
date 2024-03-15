@@ -7,7 +7,7 @@
 ## Techs ⚙️
 
 <details>
-<summary><code>Languages</code></summary>
+<summary>Languages</summary>
 
 ### Languages
 
@@ -16,7 +16,7 @@
 </details>
 
 <details>
-<summary><code>Frameworks</code></summary>
+<summary>Frameworks</summary>
 
 ### Frameworks
 
@@ -25,7 +25,7 @@
 </details>
 
 <details>
-<summary><code>IDEs</code></summary>
+<summary>IDEs</summary>
 
 ### IDEs
 
@@ -34,7 +34,7 @@
 </details>
 
 <details>
-<summary><code>Dev tools</code></summary>
+<summary>Dev tools</summary>
 
 ### Tools
 
@@ -45,7 +45,7 @@
 ## Stats 📊
 
 <details>
-<summary><code>GitHub stats</code></summary>
+<summary>GitHub stats</summary>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api/?username=Fohz67&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=fff&title_color=a480ff&icon_color=a480ff" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fohz67&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
@@ -53,14 +53,14 @@
 </details>
 
 <details>
-<summary><code>Contributions</code></summary>
+<summary>Contributions</summary>
 
 ![Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fohz67&bg_color=ffffff&color=000000&line=5917ff&point=a480ff&area=true&hide_border=true)
 
 </details>
 
 <details>
-<summary><code>Pins 📌</code></summary>
+<summary>Pins 📌</summary>
 
 [![Delta-Client-Content](https://github-readme-stats.vercel.app/api/pin/?username=Fohz67&repo=Delta-Client-Content&theme=default)](https://github.com/Fohz67/Delta-Client-Content)
 
