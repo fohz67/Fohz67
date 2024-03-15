@@ -8,17 +8,17 @@ I'm Fohz, a developer whose journey started at age 11, initially in mobile devel
 
 ### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,less,java,kotlin,cpp,php,haskell,py&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,less,java,kotlin,cpp,php,haskell,py&perline=40)](https://skillicons.dev)
 
 ### Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=vue,angular,p5js,discordjs,jquery,symfony&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,angular,p5js,discordjs,jquery,symfony&perline=40)](https://skillicons.dev)
 
 ### IDEs
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,clion,webstorm,phpstorm,pycharm,vscode,eclipse&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,idea,clion,webstorm,phpstorm,pycharm,vscode,eclipse&perline=40)](https://skillicons.dev)
 
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=maven,gradle,materialui,webpack,bun,nodejs,mysql,firebase,gcp,github,gitlab,git,githubactions,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=maven,gradle,materialui,webpack,bun,nodejs,mysql,firebase,gcp,github,gitlab,git,githubactions,&perline=40)](https://skillicons.dev)
