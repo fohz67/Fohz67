@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Fohz, a developer whose journey started at age 11, initially in mobile development, then expanding to web development and extensions. Passionate about C and Assembly, I'm currently enhancing my skills at Epitech in a 5-year program, blending my love for coding and design. As a side passion, I also delve into graphic design. My portfolio includes the development of the significant social network Pheed and several applications on the Play Store, showcasing my commitment to merging functionality with aesthetic appeal.
+I'm Fohz, a developer with a passion for coding and design. I began at age 11 with mobile development and expanded to web and extensions. Proficient in C and Assembly, I'm honing my skills at Epitech in a 5-year program. My portfolio includes developing the social network Pheed and various Play Store apps, highlighting my dedication to merging functionality with aesthetic appeal.
 
 ## Techs ⚙️
 
