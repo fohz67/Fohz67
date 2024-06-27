@@ -2,7 +2,7 @@
 
 ## About me
 
-hey, i'm fohz, started coding at 11, now doing web and extensions. skilled in c and assembly. studying at epitech, got a few apps on the play store and built pheed. just like making things work and look good.
+Hey i'm Fohz, a developer with a passion for coding and design. I began at age 11 with mobile development and expanded to web and extensions. Proficient in C and Assembly, I'm honing my skills at Epitech in a 5-year program. My portfolio includes developing the social network Pheed and various Play Store apps.
 
 ## Techs ⚙️
 
